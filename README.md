@@ -11,6 +11,11 @@
 
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=osinton&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
 # 🪐 Find me here:
 <p align="left">
 <a href="https://linkedin.com/in/outi-sintonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="outi-sintonen" height="30" width="40" /></a>
