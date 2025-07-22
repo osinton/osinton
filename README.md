@@ -1,4 +1,4 @@
-# 🌱 Hi, I'm Outi!
+# 🌱 Hi, I'm Outi
 <h3>Newly graduated junior developer full of curiosity and passion for learning new things!</h3>
 <br>
 
